@@ -9,7 +9,7 @@ theme = "hugo-story"
 ## -----------------------------------------------
 
 relativeURLs = "true"
-#canonifyURLs = "true"
+canonifyURLs = "true"
 
 # Local
 baseURL = "/"
