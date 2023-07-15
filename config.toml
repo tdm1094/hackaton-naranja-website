@@ -12,7 +12,7 @@ relativeURLs = "true"
 #canonifyURLs = "true"
 
 # Local
-baseURL = "/"
+baseURL = "https://tdm1094.github.io/"
 publishDir = "public"
 
 # Remote
