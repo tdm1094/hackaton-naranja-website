@@ -1,0 +1,17 @@
+####################### Spotlight #########################
+style: "style1 invert color1 orient-right content-align-left onload-image-fade-in onload-content-fade-right image-position-center onscroll-image-fade-in"
+id: "first"
+title : "Cualquiera puede programar"
+content: |
+  <style>
+  .texto-naranja {
+    color: #ffa500;
+  }
+  </style>
+  <p>La <em class="texto-naranja">Hackatón Naranja</em> es un juego en equipos donde nos juntamos a intentar resolver objetivos en la menor cantidad de tiempo.</p>
+  <p>Cuantos más objetivos se logren ir resolviendo, más puntos obtiene el equipo. Cada jugador tiene una cantidad de puntos persistente e intransferible que puede canjear por ventajas durante la partida.</p>
+  <p>En el último tramo del juego se realiza una competencia de trivia, donde el equipo que no quedó a la delantera puede ganar puntos y nivelarse.</p>
+button: 
+  label: "OK ¿y por qué surgió esto?"
+  link: "#second"
+image: "images/puppy-coding.jpg"

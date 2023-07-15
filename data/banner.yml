@@ -1,0 +1,11 @@
+####################### Banner #########################
+style: "style1  color8 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Hackatón Naranja"
+subtitle: "Sumate a la primera hackatón compañera"
+content : |
+   La actividad lúdica donde desmitificamos que programar es cosa de iluminados.
+button:
+  label : "¿Qué es esto?"
+  link : "#first"
+image : "images/banner-flyer.png"
+
