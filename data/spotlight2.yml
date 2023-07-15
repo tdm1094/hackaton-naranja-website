@@ -1,5 +1,5 @@
 ####################### Spotlight #########################
-style: "style2 orient-left content-align-left image-position-center onscroll-image-fade-in"
+style: "style2 orient-left content-align-left onload-image-fade-in onload-content-fade-right image-position-center onscroll-image-fade-in"
 title : "Compartir el conocimiento desde el hacer"
 id: "second"
 content: |
